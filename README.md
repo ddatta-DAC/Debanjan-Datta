@@ -13,11 +13,11 @@ Interests :
 - Deep Learning on text   
 
 Some of my projects :   
-NOAA waeather Ingestion     
+NOAA Weather Ingestion     
 https://github.com/ddatta-DAC/NOAA_Weather_Fetcher
 
 
-Deep Auto Encoder Tutorial    
+Deep Auto Encoder Tutorial :     
 https://github.com/ddatta-DAC/ConvolutionalAutoencoder
 
 

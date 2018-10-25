@@ -14,8 +14,7 @@ Interests :
 
 Some of my projects :   
 
-NOAA Weather Ingestion     
-https://github.com/ddatta-DAC/NOAA_Weather_Fetcher
+[NOAA Weather Ingestion] (https://github.com/ddatta-DAC/NOAA_Weather_Fetcher)
 
 
 Deep Auto Encoder Tutorial :     

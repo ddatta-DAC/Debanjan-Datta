@@ -18,4 +18,7 @@ Some of my projects :
 
 * [Deep Auto Encoder Tutorial] (https://github.com/ddatta-DAC/ConvolutionalAutoencoder)
 
+* [Time Series Analysis] (https://github.com/ddatta-DAC/Time-Series-Analysis)
+  This repository has around 8 deep learning models implemented to analyze their performance on predicting timeseries , using exogenous variables - akin to ARX (Auto regressive with exogenous).
+
 

@@ -12,10 +12,10 @@ Interests :
 - Time Series Analysis
 - Deep Learning on text   
 
-Some of my projects :
+Some of my projects :   
 NOAA waeather Ingestion
 
-Deep Auto Encoder Tutorial
+Deep Auto Encoder Tutorial    
 https://github.com/ddatta-DAC/ConvolutionalAutoencoder
 
 

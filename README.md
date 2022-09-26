@@ -1,11 +1,11 @@
 
-# Debanjan Datta, PhD 
-
+Debanjan Datta, PhD 
 ------------------------------
 
 Email : ddatta@vt.edu
 
 LinkedIn: https://www.linkedin.com/in/debanjan-d/
+
 ------------------------------
 
 ## Biography

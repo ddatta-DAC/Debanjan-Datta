@@ -1,2 +1,8 @@
-theme: jekyll-theme-cayman
-title: Debanjan Datta
+theme: minima
+title: Debanjan Datta HomePage
+source: .
+destination: _site
+exclude:
+- Gemfile
+- Gemfile.lock
+include: ['.htaccess']
